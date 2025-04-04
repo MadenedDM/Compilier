@@ -1,0 +1,11 @@
+CMakeFiles/
+build/
+.vscode/
+
+cmake_install.cmake
+CMakeCache.txt
+
+*.o
+*.out
+
+*.lushtok

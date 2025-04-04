@@ -1,0 +1,3 @@
+#runstep MAIN
+main () -> ():
+    codexit 0;
